@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+ 
+ Hi Everybody!
+ Let's study how to use git hub
